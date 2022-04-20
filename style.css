@@ -40,9 +40,9 @@
 	border-bottom-right-radius: 49px;
 	z-index:3
 	}
-.hair:hover{
+/* .hair:hover{
 	background-color:rgb(235, 238, 229);
-}
+} */
 .hair::before {
 	content:"BOY" ;
 	color: rgb(13, 27, 226);
